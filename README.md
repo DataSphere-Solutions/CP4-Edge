@@ -12,5 +12,12 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 - <a href="https://www.linkedin.com/in/matheus-estev%C3%A3o-5248b9238/">Matheus Alcântara</a> - RM 558193
 
 ## Máquina Virtual hospedada na Nuvem
-Utilizando a Microsoft Azure, hospedamos e configuramos uma máquina virtual com Ubuntu Server de sistema operacional. Nela, instalamos o Docker, o Docker Compose e o Fiware Descomplicado do professor Fábrio Cabrini, e abrimos as portas necessárias para todas as comunicações neste projeto serem possíveis.
+Utilizando a Microsoft Azure, hospedamos e configuramos uma máquina virtual (VM) com Ubuntu Server de sistema operacional. Nela, instalamos o Docker, o Docker Compose e o Fiware Descomplicado do professor Fábrio Cabrini, e abrimos as portas necessárias para todas as comunicações neste projeto serem possíveis.
 ![image](https://github.com/user-attachments/assets/40755ca2-5925-4e9e-a063-1c94e3953cbb)
+
+## Postman
+Utilizando o Postman para ler a coleção do API do Fiware Descomplicado e configurando o IP público da VM, fazemos os health checks e confirmamos que está tudo comunicando corretamente.
+![image](https://github.com/user-attachments/assets/ad7cfabe-54e6-4e79-991b-507691bbe501)
+![image](https://github.com/user-attachments/assets/9dadf132-e51e-4b70-b94e-200baa7d275d)
+![image](https://github.com/user-attachments/assets/dbb7e187-33c6-4782-98c0-e433c94b7577)
+![image](https://github.com/user-attachments/assets/ee958b0e-2e61-4d4d-bdc7-c2de6d6bf75f)
