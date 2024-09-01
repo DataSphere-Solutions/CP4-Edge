@@ -21,3 +21,12 @@ Utilizando o Postman para ler a coleção do API do Fiware Descomplicado e confi
 ![image](https://github.com/user-attachments/assets/9dadf132-e51e-4b70-b94e-200baa7d275d)
 ![image](https://github.com/user-attachments/assets/dbb7e187-33c6-4782-98c0-e433c94b7577)
 ![image](https://github.com/user-attachments/assets/ee958b0e-2e61-4d4d-bdc7-c2de6d6bf75f)
+
+## Simulação no Wokwi
+Utilizando um simulador online como o Wokwi, e configurando o código corretamente para enviar e receber dados, podemos enviar os valores de luminosidade para o Postman e receber valores de led on/off do Postman.
+![image](https://github.com/user-attachments/assets/50db4c79-00ae-4629-a3f4-2e7a5fbe2efb)
+![image](https://github.com/user-attachments/assets/9d89a804-7c32-4255-a1b5-2c81d970f0e3)
+![image](https://github.com/user-attachments/assets/d9f18839-851f-4620-9694-5b057c980aa2)
+![image](https://github.com/user-attachments/assets/9665e8db-6429-4a78-b2bc-f804ba86bc24)
+![image](https://github.com/user-attachments/assets/bd14148c-ca8b-417d-b9c1-8221d18e0651)
+
