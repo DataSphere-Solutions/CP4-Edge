@@ -10,3 +10,7 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 - <a href="https://www.linkedin.com/in/ian-monteiro-moreira-a4543a2b7/">Ian Monteiro</a> - RM 558652 
 - <a href="https://www.linkedin.com/in/igor-brunelli-ralo-39143a2b7/">Igor Brunelli</a> - RM 555035
 - <a href="https://www.linkedin.com/in/matheus-estev%C3%A3o-5248b9238/">Matheus Alcântara</a> - RM 558193
+
+## Máquina Virtual hospedada na Nuvem
+Utilizando a Microsoft Azure, hospedamos e configuramos uma máquina virtual com Ubuntu Server de sistema operacional. Nela, instalamos o Docker, o Docker Compose e o Fiware Descomplicado do professor Fábrio Cabrini, e abrimos as portas necessárias para todas as comunicações neste projeto serem possíveis.
+![image](https://github.com/user-attachments/assets/40755ca2-5925-4e9e-a063-1c94e3953cbb)
